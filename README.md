@@ -1,4 +1,4 @@
-#A simple Q-learning Implementation
+# A simple Q-learning Implementation
 
 Q-learning([wiki](https://en.wikipedia.org/wiki/Q-learning)) is a model-free reinforcement learning technique. The post "[A Painless Q-learning Tutorial](http://blog.csdn.net/pi9nc/article/details/27649323)" provides a clear description and detail steps which give me inspiration to implement it. 
 _note: the original address of the post is expired, I choose a reposted one instead. _
